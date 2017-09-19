@@ -2,6 +2,9 @@
 John Smith
 Alex Smith
 
+# Abstract
+Question X is of paramount importance. We present here significant discoveries. 
+
 # Title
 A title
 
