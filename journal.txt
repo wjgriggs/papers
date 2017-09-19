@@ -11,3 +11,6 @@ We used an aerosol mas spec with chemicla composition of particles (Allan et al 
 # Simultations
 We ran an atmospheric model to simulate the formation of aerosol particles. 
 
+# Instrumentation
+The aerosol mass spec is described in Allan et al 2003. 
+

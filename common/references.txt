@@ -1,3 +1,3 @@
-Ref1 Allan et al 
+Ref1 Allan et al 2004
 Ref2 Jones et al
-Ref3
+Ref3 Allan et al 2003, Introducing the AMS for atmospheric measurement. 
