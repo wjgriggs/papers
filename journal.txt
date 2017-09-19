@@ -1,3 +1,3 @@
 # Authors 
 
-# Added an introduction
+# We used an aerosol mas spec with chemicla composition of particles (Allen et al 2004).
