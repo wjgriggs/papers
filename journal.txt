@@ -1,6 +1,6 @@
 # Authors 
-John Smith
 Alex Smith
+John Smith
 
 # Abstract
 Question X is of paramount importance. We present here significant discoveries. 
