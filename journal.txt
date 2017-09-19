@@ -2,9 +2,6 @@
 John Smith
 Alex Smith
 
-#Title
-This is the title. 
-
 # Title
 A title
 
