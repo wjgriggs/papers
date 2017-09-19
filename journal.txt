@@ -6,7 +6,7 @@ Alex Smith
 A title
 
 # Introduction
-We used an aerosol mas spec with chemicla composition of particles (Allen et al 2004). This question has been approached before by Jones et al (Jones et al, 2007).
+We used an aerosol mas spec with chemicla composition of particles (Allan et al 2004). This question has been approached before by Jones et al (Jones et al, 2007).
 
 # Simultations
 We ran an atmospheric model to simulate the formation of aerosol particles. 
