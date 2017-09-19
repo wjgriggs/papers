@@ -14,6 +14,11 @@ We ran an atmospheric model to simulate the formation of aerosol particles.
 # Instrumentation
 The aerosol mass spec is described in Allan et al 2003. 
 
+# Results
+Our simulations did a good job of reproducing the measurements. This means we think we understand what's going on. This adresses somewhat question X from the introduction. 
+
 # Conclusions
 We have made great inroads into understanding the mechanism of particle formation, refered to as question X in the introduction. 
 As always, there are unanswred questions, for which we should definitely receive further funding. 
+
+
